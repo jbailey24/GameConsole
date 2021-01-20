@@ -1,6 +1,10 @@
 # OK, Here's the Plan...
 
 <p align="center">
+<img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/IMG_1016.JPG?raw=true" width="200">
+</p>
+
+<p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/GameProCon.PNG?raw=true" width="850">
 </p>
 
