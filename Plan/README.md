@@ -15,20 +15,27 @@ Eventually I got it narrowed down to three games: Phoenix, Dragonfire, and Snake
 </p>
 <p>
 There's a very real possiblity that this will turn out to be more complex than I thought and I will only get through one or two games, but that's completely fine with me. I'm purposfully trying to set a higher goal than I will most likely realistically acheive, just in case I do get that far. Once I'm farther into this project, I can take a better estimate on how much I can do and set a definate goal. 
-  </p>                             
-  <p>
-So anyways, here's my first game.m                     
+</p>                             
+<p>
+So anyways, here's my first game. It's designed to be about as simple as a game can possibly be. I'm calling it TunnelDash for now because my first (very creative and catchy) name, Maze, includes an M which is hard to write with low numbers of pixels.             
+</p>
 <p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/TunnelDash.PNG?raw=true" width="850">
 </p>
-
+<p>
+Here's my second game:
+</P>
 <p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/Snake.PNG?raw=true" width="850">
 </p>
-
+<p>
+Here's my third. My family has an Atari 2600 and lots of obscure games, this being on of them. It's actully pretty fun.
+</P>
 <p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/Dragonfire.PNG?raw=true" width="850">
 </p>
+
+And finally, Phoenix, my favorite Atari game. It's much more complex then any of the other games due to the flying and shooting patterns of the enemies, so I doubt I'll ever get to finishing it, but I can't not include it as a possibility.  
 
 <p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/Phoenix.PNG?raw=true" width="850">
