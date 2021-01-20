@@ -41,6 +41,7 @@ And finally, Phoenix, my favorite Atari game. It's much more complex then any of
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/Phoenix.PNG?raw=true" width="850">
 </p>
 
+Just to make sure that 128x64 was enough pixels, I made a few mockups and it seems to work great.
 <p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/SelectGameDemo.GIF?raw=true" width="300">
 </p>
@@ -48,4 +49,10 @@ And finally, Phoenix, my favorite Atari game. It's much more complex then any of
 <p align="center">
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Plan/media/HighScoreDemo.GIF?raw=true" width="300">
 </p>
+
+<p>
+I'm planning on the hardware being fairly simple: a box with a LCD, a few buttons, and a potentiometer. I really want to put most of my focus into the software for this project. I also know this is a team project, but I was wondering if I could work by myself. I have a lot of ideas for what I want to do that are very specific and most other people wouldn't be that interested in. It's also very difficult to work collaboratively in a virtual enviornment, and so I feel like I'd actully be more productive by myself. 
+</p>
+Anyways, that's my plan. My next step would be to get the LCD and learn how to turn the pixels on and off. Perhaps make a library to do that. Does this all seem good to you?
+
 
