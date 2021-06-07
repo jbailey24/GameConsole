@@ -1,8 +1,10 @@
+#UNFINISHED
+
 import time
 import board
 import displayio
-import adafruit_imageload           #import external bitmap
-import adafruit_displayio_ssd1306   #import specific code for the ssd1306 display
+import adafruit_imageload           #allows importing external bitmaps
+import adafruit_displayio_ssd1306   #specific code for the ssd1306 display
 
 class Setup:
 
@@ -23,22 +25,29 @@ class Setup:
 
 
     #making individual tilemaps from main sprite sheet
-        #self.sprite = displayio.TileGrid(sprite_sheet, pixel_shader=palette, width = 20, height = 1, tile_width =1, tile_height = 5)    #width and height are of the tilegrid: tile_width and tile_height are the number of pixels of the bitmap
-        self.sprite2 = displayio.TileGrid(self.sprite_sheet, pixel_shader=palette, width = 8, height = 4, tile_width =16, tile_height = 16)
-        self.sprite3 = displayio.TileGrid(self.sprite_sheet, pixel_shader=palette, width = 1, height = 1, tile_width =3, tile_height = 5)
-
-
+        self.words = displayio.TileGrid(self.sprite_sheet, pixel_shader=palette, width = 35, height = 1, tile_width =1, tile_height = 5)    #width and height are of the tilegrid: tile_width and tile_height are the number of pixels of the bitmap
+        self.background = displayio.TileGrid(self.sprite_sheet, pixel_shader=palette, width = 8, height = 4, tile_width =16, tile_height = 16)
+        self.sprite = displayio.TileGrid(self.sprite_sheet, pixel_shader=palette, width = 1, height = 1, tile_width =3, tile_height = 3)
+        self.highscore = displayio.TileGrid(self.sprite_sheet, pixel_shader=palette, width = 60, height = 1, tile_width =1, tile_height = 5)
+      
+      
     #sub groups
-        #self.sprite_group = displayio.Group(scale=6)
-        #self.sprite_group.x=0
-        #self.sprite_group.y=0
+        self.words_group = displayio.Group(scale=3)     #creates subgroups; the scale value, suprisingly, changes the scale of the tilegrid
+        self.words_group.x=11   #position of subgroup in relation to main group
+        self.words_group.y=24
 
-        self.sprite2_group = displayio.Group(scale=1)
-        self.sprite2_group.x=0
-        self.sprite2_group.y=0
+        self.background_group = displayio.Group(scale=1)
+        self.background_group.x=0
+        self.background_group.y=0
 
-        self.sprite3_group = displayio.Group(scale=1)
+        self.sprite_group = displayio.Group(scale=1)
+        
+        self.highscore_group = displayio.Group(scale=2)
+        self.highscore_group.x=4
+        self.highscore_group.y=27
 
 
     #main group
-        self.group = displayio.Group()
+        self.group = displayio.Group()      #creates main group
+        
+        
