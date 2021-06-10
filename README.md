@@ -37,4 +37,16 @@ The materials I would have used if I had finished:
 
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/IMG_1285.jpg?raw=true" width="650"/>
 
+## Onshape Rendering
+
+Veiw in Onshape [here](https://cvilleschools.onshape.com/documents/c500101a5530eafe7376c04a/w/b9b6f445e7ac33f327785da2/e/abd8c56d3d7ee361f654bb46)
+
+<img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.11.55%20AM.png?raw=true" height="300"/> <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.13.02%20AM.png?raw=true" height="300"/> 
+<img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.12.13%20AM.png?raw=true" height="300"/> <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.13.55%20AM.png?raw=true" height="300"/>
+
+
+
+
+Although the physical aspect of my project was fairly straightforward, I designed a model of what the finished product would look like in Onshape. I ran out of time to cut out some of the holes and add T notches along the sides of the box (to attach sides together), but the general concept of the design is complete. All of the individual parts are fixed and in their 'final' location in relation to the box.
+
 
