@@ -31,3 +31,9 @@ The materials I would have used if I had finished:
 * a panel-mounted switch (to turn on and off)
 * a battery pack and batteries
 * nuts and bolts
+
+## The Wiring
+
+<img src="https://github.com/jbailey24/GameConsole/blob/main/Images/IMG_1285.jpg?raw=true" width="650"/>
+
+
