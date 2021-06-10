@@ -39,7 +39,7 @@ The materials I would have used if I had finished:
 
 ## Onshape Rendering
 
-Veiw in Onshape [here](https://cvilleschools.onshape.com/documents/c500101a5530eafe7376c04a/w/b9b6f445e7ac33f327785da2/e/abd8c56d3d7ee361f654bb46)
+View in Onshape [here](https://cvilleschools.onshape.com/documents/c500101a5530eafe7376c04a/w/b9b6f445e7ac33f327785da2/e/abd8c56d3d7ee361f654bb46)
 
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.11.55%20AM.png?raw=true" height="300"/> <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.13.02%20AM.png?raw=true" height="300"/> 
 <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.12.13%20AM.png?raw=true" height="300"/> <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/Screenshot%202021-06-10%2011.13.55%20AM.png?raw=true" height="300"/>
@@ -48,6 +48,6 @@ Although the physical aspect of my project was fairly straightforward, I designe
 
 ## The Code
 
-Veiw the code [here](https://github.com/jbailey24/GameConsole/tree/main/Code)
+View the code [here](https://github.com/jbailey24/GameConsole/tree/main/Code)
 
 
