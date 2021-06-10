@@ -1,6 +1,7 @@
 # Game Console
 
-<img src="https://github.com/jbailey24/GameConsole/blob/main/Images/IMG_7456.jpg?raw=true" alt="Image of the Game" width="400"/>
+<img src="https://github.com/jbailey24/GameConsole/blob/main/Images/IMG_7456.jpg?raw=true" alt="Image of the Game" height="300"/>      <img src="https://github.com/jbailey24/GameConsole/blob/main/Images/IMG_7460.jpg?raw=true" alt="Image of the Game" height="300"/>
+
 
 My goal for this project was to create a fully-functioning, self-made game on a ssd1306 oled. Although I fell short of realizing this goal, I made significant progress towards achieving it and was able to overcome numerous obsticles along the way. I enjoyed venturing outside the relm of the projects we did in the first semester, and found it rewarding to solve encountered problems (mostly) on my own. 
 
