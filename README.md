@@ -8,7 +8,7 @@ My final version of the project loads up a maze onto the ssd1306 along with a sq
 
 My biggest limiting factor was the storage space on the Metro Express. I constantly had to work around memory errors, and I don't know if I would have been able to complete the game, even when given more time, because of them. 
 
-click [here](https://youtu.be/extGfHxMhiU) to see a video of my project.
+Click [here](https://youtu.be/extGfHxMhiU) to see a video of my project.
 
 ## The Plan
 
